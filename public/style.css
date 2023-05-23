@@ -1,0 +1,15 @@
+body{
+    background-color: grey;
+}
+h1{
+    background-color: rgba(221, 215, 215, 0.687);
+    padding: 15px;
+}
+div{
+    height: 200px;
+    padding: 10px;
+}
+h4{
+    padding: 10px;
+    margin: 0%;
+}
